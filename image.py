@@ -14,3 +14,4 @@ img3 = img3*255
 
 img3 = img3[:,:,np.newaxis]
 
+#add same files as main breach in new brach for testing
