@@ -12,3 +12,5 @@ img3 = img1 * img2
 
 img3 = img3*255
 
+img3 = img3[:,:,np.newaxis]
+
